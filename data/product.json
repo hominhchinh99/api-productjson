@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "HIGHLANDER Shirt",
+        "image": {
+            "img": "/assets/images/product/product-1.jpg",
+            "img1": "/assets/images/product/product-1_1.jpg",
+            "img2": "/assets/images/product/product-1_2.jpg",
+            "img3": "/assets/images/product/product-1_3.jpg",
+            "img4": "/assets/images/product/product-1_4.jpg"
+        },
+        "price": 200000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 2,
+        "name": "Roadster Shirt",
+        "image": {
+            "img": "/assets/images/product/product-2.jpg",
+            "img1": "/assets/images/product/product-2_1.jpg",
+            "img2": "/assets/images/product/product-2_2.jpg",
+            "img3": "/assets/images/product/product-2_3.jpg",
+            "img4": "/assets/images/product/product-2_4.jpg"
+        },
+        "price": 100000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 3,
+        "name": "Roadster Shirt",
+        "image": {
+            "img": "/assets/images/product/product-3.jpg",
+            "img1": "/assets/images/product/product-3_1.jpg",
+            "img2": "/assets/images/product/product-3_2.jpg",
+            "img3": "/assets/images/product/product-3_3.jpg",
+            "img4": "/assets/images/product/product-3_4.jpg"
+        },
+        "price": 290000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 4,
+        "name": "Dennis Lingo Shirt",
+        "image": {
+            "img": "/assets/images/product/product-4.jpg",
+            "img1": "/assets/images/product/product-4_1.jpg",
+            "img2": "/assets/images/product/product-4_2.jpg",
+            "img3": "/assets/images/product/product-4_3.jpg",
+            "img4": "/assets/images/product/product-4_4.jpg"
+        },
+        "price": 300000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 5,
+        "name": "HIGHLANDER Shirt",
+        "image": {
+            "img": "/assets/images/product/product-5.jpg",
+            "img1": "/assets/images/product/product-5_1.jpg",
+            "img2": "/assets/images/product/product-5_2.jpg",
+            "img3": "/assets/images/product/product-5_3.jpg",
+            "img4": "/assets/images/product/product-5_4.jpg"
+        },
+        "price": 160000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 6,
+        "name": "Campus Sutra Shirt",
+        "image": {
+            "img": "/assets/images/product/product-6.jpg",
+            "img1": "/assets/images/product/product-6_1.jpg",
+            "img2": "/assets/images/product/product-6_2.jpg",
+            "img3": "/assets/images/product/product-6_3.jpg",
+            "img4": "/assets/images/product/product-6_4.jpg"
+        },
+        "price": 590000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 7,
+        "name": "GANT Shirt",
+        "image": {
+            "img": "/assets/images/product/product-7.jpg",
+            "img1": "/assets/images/product/product-7_1.jpg",
+            "img2": "/assets/images/product/product-7_2.jpg",
+            "img3": "/assets/images/product/product-7_3.jpg",
+            "img4": "/assets/images/product/product-7_4.jpg"
+        },
+        "price": 300000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 8,
+        "name": "WROGN Shirt",
+        "image": {
+            "img": "/assets/images/product/product-8.jpg",
+            "img1": "/assets/images/product/product-8_1.jpg",
+            "img2": "/assets/images/product/product-8_2.jpg",
+            "img3": "/assets/images/product/product-8_3.jpg",
+            "img4": "/assets/images/product/product-8_4.jpg"
+        },
+        "price": 550000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 9,
+        "name": "THE BEAR HOUSE Shirt",
+        "image": {
+            "img": "/assets/images/product/product-9.jpg",
+            "img1": "/assets/images/product/product-9_1.jpg",
+            "img2": "/assets/images/product/product-9_2.jpg",
+            "img3": "/assets/images/product/product-9_3.jpg",
+            "img4": "/assets/images/product/product-9_4.jpg"
+        },
+        "price": 90000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 10,
+        "name": "The Indian Garage Shirt",
+        "image": {
+            "img": "/assets/images/product/product-10.jpg",
+            "img1": "/assets/images/product/product-10_1.jpg",
+            "img2": "/assets/images/product/product-10_2.jpg",
+            "img3": "/assets/images/product/product-10_3.jpg",
+            "img4": "/assets/images/product/product-10_4.jpg"
+        },
+        "price": 120000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 11,
+        "name": "Levis Shirt",
+        "image": {
+            "img": "/assets/images/product/product-11.jpg",
+            "img1": "/assets/images/product/product-11_1.jpg",
+            "img2": "/assets/images/product/product-11_2.jpg",
+            "img3": "/assets/images/product/product-11_3.jpg",
+            "img4": "/assets/images/product/product-11_4.jpg"
+        },
+        "price": 310000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    },
+    {
+        "id": 12,
+        "name": "Mast & Harbour Shirt",
+        "image": {
+            "img": "/assets/images/product/product-12.jpg",
+            "img1": "/assets/images/product/product-12_1.jpg",
+            "img2": "/assets/images/product/product-12_2.jpg",
+            "img3": "/assets/images/product/product-12_3.jpg",
+            "img4": "/assets/images/product/product-12_4.jpg"
+        },
+        "price": 230000,
+        "size": [
+            "XXL",
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "detail": "Áo thun nam cổ tròn với background chữ nhật và logo trước ngực trẻ trung thích hợp cho các bạn nam trẻ tuổi với chất liệu thun cotton đem lại sự thoải mái, mát mẻ cho người mặc. Những buổi đi chơi, đi học hay là những ngày ở nhà thì chiếc áo này đều phù hợp."
+    }
+]
